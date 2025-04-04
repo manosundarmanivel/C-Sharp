@@ -1,0 +1,15 @@
+/Users/manosundar/Desktop/C-Sharp/Task2/obj/Debug/net9.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manosundar/Desktop/C-Sharp/Task2/obj/Debug/net9.0/Task2.AssemblyInfoInputs.cache
+/Users/manosundar/Desktop/C-Sharp/Task2/obj/Debug/net9.0/Task2.AssemblyInfo.cs
+/Users/manosundar/Desktop/C-Sharp/Task2/obj/Debug/net9.0/Task2.csproj.CoreCompileInputs.cache
+/Users/manosundar/Desktop/C-Sharp/Task2/obj/Debug/net9.0/Task2.sourcelink.json
+/Users/manosundar/Desktop/C-Sharp/Task2/bin/Debug/net9.0/Task2
+/Users/manosundar/Desktop/C-Sharp/Task2/bin/Debug/net9.0/Task2.deps.json
+/Users/manosundar/Desktop/C-Sharp/Task2/bin/Debug/net9.0/Task2.runtimeconfig.json
+/Users/manosundar/Desktop/C-Sharp/Task2/bin/Debug/net9.0/Task2.dll
+/Users/manosundar/Desktop/C-Sharp/Task2/bin/Debug/net9.0/Task2.pdb
+/Users/manosundar/Desktop/C-Sharp/Task2/obj/Debug/net9.0/Task2.dll
+/Users/manosundar/Desktop/C-Sharp/Task2/obj/Debug/net9.0/refint/Task2.dll
+/Users/manosundar/Desktop/C-Sharp/Task2/obj/Debug/net9.0/Task2.pdb
+/Users/manosundar/Desktop/C-Sharp/Task2/obj/Debug/net9.0/Task2.genruntimeconfig.cache
+/Users/manosundar/Desktop/C-Sharp/Task2/obj/Debug/net9.0/ref/Task2.dll
