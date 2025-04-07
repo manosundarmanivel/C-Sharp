@@ -1,0 +1,15 @@
+/Users/manosundar/Desktop/C-Sharp/Task6/bin/Debug/net9.0/Task6
+/Users/manosundar/Desktop/C-Sharp/Task6/bin/Debug/net9.0/Task6.deps.json
+/Users/manosundar/Desktop/C-Sharp/Task6/bin/Debug/net9.0/Task6.runtimeconfig.json
+/Users/manosundar/Desktop/C-Sharp/Task6/bin/Debug/net9.0/Task6.dll
+/Users/manosundar/Desktop/C-Sharp/Task6/bin/Debug/net9.0/Task6.pdb
+/Users/manosundar/Desktop/C-Sharp/Task6/obj/Debug/net9.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manosundar/Desktop/C-Sharp/Task6/obj/Debug/net9.0/Task6.AssemblyInfoInputs.cache
+/Users/manosundar/Desktop/C-Sharp/Task6/obj/Debug/net9.0/Task6.AssemblyInfo.cs
+/Users/manosundar/Desktop/C-Sharp/Task6/obj/Debug/net9.0/Task6.csproj.CoreCompileInputs.cache
+/Users/manosundar/Desktop/C-Sharp/Task6/obj/Debug/net9.0/Task6.sourcelink.json
+/Users/manosundar/Desktop/C-Sharp/Task6/obj/Debug/net9.0/Task6.dll
+/Users/manosundar/Desktop/C-Sharp/Task6/obj/Debug/net9.0/refint/Task6.dll
+/Users/manosundar/Desktop/C-Sharp/Task6/obj/Debug/net9.0/Task6.pdb
+/Users/manosundar/Desktop/C-Sharp/Task6/obj/Debug/net9.0/Task6.genruntimeconfig.cache
+/Users/manosundar/Desktop/C-Sharp/Task6/obj/Debug/net9.0/ref/Task6.dll
